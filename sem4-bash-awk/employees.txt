@@ -1,0 +1,6 @@
+ivan IT 120000
+maria HR 90000
+petr IT 150000
+anna Sales 80000
+oleg IT 95000
+elena HR 110000
